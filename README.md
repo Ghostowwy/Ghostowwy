@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👻 Ghostowwy
 
-<!--
-**Ghostowwy/Ghostowwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cześć!** Jestem **Ghostowwy** — pasjonat programowania i developer z ponad **2-letnim doświadczeniem**.  
+Kocham tworzyć rzeczy, które naprawdę *działają*.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 O mnie
+
+💻 Programuję od 2 lat — głównie w **Pythonie**, ale ciągle rozwijam się w innych technologiach.  
+🚀 Lubię pisać czysty, logiczny kod i uczyć się nowych narzędzi.  
+🧩 Zawsze dążę do tego, by każdy projekt był lepszy od poprzedniego.
+
+---
+
+## ⚙️ Technologie i narzędzia
+
+🔹 **Języki:** Python  
+🔹 **Zainteresowania:** automatyzacja, backend,  boty, skrypty   
+🔹 **Narzędzia:** Git, VS Code, Linux  ,Intelijidea 
+
+---
+
+## 📈 Moje statystyki
+
+![Ghostowwy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghostowwy&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostowwy&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Kontakt
+
+📧 **Email:** (tu możesz wpisać swój e-mail, jeśli chcesz)  
+🌐 **GitHub:** [github.com/Ghostowwy](https://github.com/Ghostowwy)
+
+---
+
+> 💬 *„Kod to nie tylko linie – to sposób myślenia.”*
+
+---
