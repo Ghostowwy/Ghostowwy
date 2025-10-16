@@ -7,7 +7,7 @@ Kocham tworzyć rzeczy, które naprawdę *działają*.
 
 ## 🧠 O mnie
 
-💻 Programuję od 2 lat — głównie w **Pythonie**, ale ciągle rozwijam się w innych technologiach.  
+💻 Programuję od 2 lat — głównie w **Java**, ale ciągle rozwijam się w innych technologiach.  
 🚀 Lubię pisać czysty, logiczny kod i uczyć się nowych narzędzi.  
 🧩 Zawsze dążę do tego, by każdy projekt był lepszy od poprzedniego.
 
@@ -15,9 +15,9 @@ Kocham tworzyć rzeczy, które naprawdę *działają*.
 
 ## ⚙️ Technologie i narzędzia
 
-🔹 **Języki:** Python  
+🔹 **Języki:** Python,Java,html,css,javascript,typescript,php  
 🔹 **Zainteresowania:** automatyzacja, backend,  boty, skrypty   
-🔹 **Narzędzia:** Git, VS Code, Linux  ,Intelijidea 
+🔹 **Narzędzia:** Git, VS Code, Linux  ,IntelliJ IDEA  
 
 ---
 
