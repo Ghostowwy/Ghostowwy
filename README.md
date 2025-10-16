@@ -31,7 +31,7 @@ Kocham tworzyć rzeczy, które naprawdę *działają*.
 
 ## 📫 Kontakt
 
-📧 **Email:** (tu możesz wpisać swój e-mail, jeśli chcesz)  
+🌀  **Discord** [https://discord.gg/Gbf8KkBDJy]
 🌐 **GitHub:** [github.com/Ghostowwy](https://github.com/Ghostowwy)
 
 ---
